@@ -1,7 +1,5 @@
 # pedal
 
-![pedal_dual]
-
 *QMK firmware for RP2040 dual foot pedal controller*
 
 * Keyboard Maintainer: [Kurt Krause](https://github.com/KrauseKurt)
